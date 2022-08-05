@@ -1,11 +1,11 @@
 # Star Pattern Programs
 1. Write a Program to print the right triangle star pattern.
 
-*
-**
-***
-****
-*****
+### *
+### **
+### ***
+### ****
+### *****
 
 2. Write a Program to print an inverted right triangle star pattern.
 
