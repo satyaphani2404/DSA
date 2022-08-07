@@ -9,87 +9,87 @@
 
 2. Write a Program to print an inverted right triangle star pattern.
 
-*****
-****
-***
-**
-*
+### *****
+### ****
+### ***
+### **
+### *
 
 
 3. Write a Program to print mirrored right triangle star pattern.
 
-    *
-   **
-  ***
- ****
-*****
+###     *
+###    **
+###   ***
+###  ****
+### *****
 
 4. Write a Program to print the Inverted Half Pyramid Star Pattern.
 
-*****
- ****
-  ***
-   **
-    *
+### *****
+###  ****
+###   ***
+###    **
+###     *
 
 5. Write a Program to print the Full Pyramid Star pattern.
 
-    *  
-   * * 
-  * * *
- * * * *
-* * * * *
+###     *  
+###    * * 
+###   * * *
+###  * * * *
+### * * * * *
 
 6. Write a Program to print an inverted pyramid star pattern.
 
-* * * * * 
- * * * *
-  * * *
-   * *
-    *
+### * * * * * 
+###  * * * *
+###   * * *
+###    * *
+###     *
 
 7. Write a Program to print a square star pattern.
 
-*****
-*****
-*****
-*****
-*****
+### *****
+### *****
+### *****
+### *****
+### *****
 
 8. Write a Program to Print Half Diamond Star Pattern.
 
-*
-**
-***
-****
-*****
-****
-***
-**
-*
+### *
+### **
+### ***
+### ****
+### *****
+### ****
+### ***
+### **
+### *
 
 9. Write a program to Print a solid Diamond Star Pattern.
 
 
-     *      
-    * *     
-   * * *    
-  * * * *   
- * * * * *  
-* * * * * * 
- * * * * *  
-  * * * *   
-   * * *    
-    * *     
-     *      
+###      *      
+###     * *     
+###    * * *    
+###   * * * *   
+###  * * * * *  
+### * * * * * * 
+###  * * * * *  
+###   * * * *   
+###    * * *    
+###     * *     
+###      *      
 
 10. Write a program to Print Inverted V Star Pattern.
 
-    *     
-   * *    
-  *   *   
- *     *  
-*       *
+###     *     
+###    * *    
+###   *   *   
+###  *     *  
+### *       *
 
 11. Write a Program to print the Full Pyramid Star Pattern.
  
