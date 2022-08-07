@@ -93,45 +93,45 @@
 
 11. Write a Program to print the Full Pyramid Star Pattern.
  
-    *
-   ***
-  *****
- *******
-*********
+###    *
+###   ***
+###  *****
+### *******
+### *********
 
 12. Write a Program to Print the Inverted Full Pyramid Star Pattern.
 
-*********
- *******
-  *****
-   ***
-    *
+### *********
+### *******
+###  *****
+###   ***
+###    *
 
 13. Write a  Program to print the Solid Inverted Half Diamond Star Pattern.
 
-     *
-    **
-   ***
-  ****
- *****
-******
- *****
-  ****
-   ***
-    **
-     *
+###      *
+###     **
+###    ***
+###   ****
+###  *****
+### ******
+###  *****
+###   ****
+###    ***
+###     **
+###      *
 
 14. Write a Program to Print the V Star Pattern.
 
-*       * 
- *     *  
-  *   *   
-   * *    
-    *     
+### *       * 
+###  *     *  
+###   *   *   
+###    * *    
+###     *     
 
 15. Write a Program to Print the Hollow Diamond Star Pattern.
 
-    *   
+   *   
   * *
  *   * 
 *     *
