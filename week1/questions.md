@@ -187,21 +187,21 @@
 
 21. Write a Program to Print the Hollow Rectangle Star Pattern.
 
-*****
-*   *
-*   *
-*   *
-*****
+### *****
+### *   *
+### *   *
+### *   *
+### *****
 
 22. Write a Program to print a butterfly shape star pattern.
 
-*     *
-**   **
-*** ***
-*******
-*** ***
-**   **
-*     *
+### *     *
+### **   **
+### *** ***
+### *******
+### *** ***
+### **   **
+### *     *
 
 # Number Pattern Program
 1. Write a program to print the rectangle Number pattern.
