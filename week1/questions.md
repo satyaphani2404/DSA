@@ -131,29 +131,29 @@
 
 15. Write a Program to Print the Hollow Diamond Star Pattern.
 
-   *   
-  * *
- *   * 
-*     *
- *   *
-  * *
-   *
+###    *   
+###   * *
+###  *   * 
+### *     *
+###  *   *
+###   * *
+###    *
 
-16. Write a Program to Print the Pant's style Star Pattern.
+16. Write a Program to Print the Inverted Pant's Shape Star Pattern.
+
+### *       *
+### **     **
+### ***   ***
+### **** ****
+### *********
+
+17. Write a Program to Print the Pant's style Star Pattern.
 
 *********
 **** ****
 ***   ***
 **     **
 *       *
-
-17. Write a Program to Print the Inverted Pant's Shape Star Pattern.
-
-*       *
-**     **
-***   ***
-**** ****
-*********
 
 18. Write a Program to Print the Double Pyramid Star Pattern.
 
