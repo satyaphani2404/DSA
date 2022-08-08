@@ -5,18 +5,16 @@ using namespace std;
 using namespace std;
 int main()
 {
-    int row_size;
-    cin>>row_size;
-    int in,out,p;
+    int n;
+    cin>>n;
+    int left=n;
+    int right=n;
 
-    int print_control_x=row_size;
-    int print_control_y=row_size;
-
-     for(out=1;out<=row_size;out++)
+     for(int i=1;i<=n;i++)
        {
-           for(in=1;in<row_size*2;in++)
+           for(int j=1;j<n*2;j++)
            {
-               if(in>print_control_x && in<print_control_y)
+               if(j>left && j<right)
                {
                cout<<" ";
                  }
@@ -25,8 +23,8 @@ int main()
                  cout<<"*";
                }
              }
-           print_control_x--;
-           print_control_y++;
+           left--;
+           right++;
             cout<<"\n";
      }
 }

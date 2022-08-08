@@ -149,41 +149,41 @@
 
 17. Write a Program to Print the Pant's style Star Pattern.
 
-*********
-**** ****
-***   ***
-**     **
-*       *
+### *********
+### **** ****
+### ***   ***
+### **     **
+### *       *
 
 18. Write a Program to Print the Double Pyramid Star Pattern.
 
-******
-*****
-****
-***
-**
-*
-**
-***
-****
-*****
-******
+### ******
+### *****
+### ****
+### ***
+### **
+### *
+### **
+### ***
+### ****
+### *****
+### ******
 
 19. Write a Program to Print Cross Sign (╳ ) Star Pattern.
 
-*   *
- * *
-  *
- * *
-*   *
+### *   *
+###  * *
+###   *
+###  * *
+### *   *
 
 20. Write a Program to Print the Hollow Half Pyramid Star Pattern.
 
-*    
-**
-* *
-*  *
-*****
+### *    
+### **
+### * *
+### *  *
+### *****
 
 21. Write a Program to Print the Hollow Rectangle Star Pattern.
 
