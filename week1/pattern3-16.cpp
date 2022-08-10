@@ -16,14 +16,3 @@ int main(){
     }
     
 }
-// F
-// FE
-// FED
-// FEDC
-// FEDCB
-// FEDCBA
-// FEDCB
-// FEDC
-// FED
-// FE
-// F
