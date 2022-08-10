@@ -566,16 +566,7 @@ ABCDE
     A
 
 
-14. Write a program to print the Alphabet Inverted Half Pyramid Pattern.
-
-ABCDE
- ABCD
-  ABC
-   AB
-    A
-
-
-15. Write a Program to print the Full Pyramid Alphabet Pattern.  
+14. Write a Program to print the Full Pyramid Alphabet Pattern.  
 
     A
    BBB
@@ -584,7 +575,7 @@ ABCDE
 EEEEEEEEE
 
 
-16. Write a Program to print the Full Inverted Pyramid Alphabet Pattern.  
+15. Write a Program to print the Full Inverted Pyramid Alphabet Pattern.  
 
 EEEEEEEEE
  DDDDDDD
@@ -593,7 +584,7 @@ EEEEEEEEE
     A
 
 
-17. Write a Program to print the Solid Half Diamond Alphabet Pattern.
+16. Write a Program to print the Solid Half Diamond Alphabet Pattern.
 
 F
 FE
@@ -607,7 +598,7 @@ FED
 FE
 F
 
-18. Write a Program to print the Solid Inverted Half Diamond Alphabet Pattern.
+17. Write a Program to print the Solid Inverted Half Diamond Alphabet Pattern.
 
      F
     EF
@@ -621,7 +612,7 @@ ABCDEF
     EF
      F
 
-19. Write a Program to print the Solid Diamond Alphabet Pattern.
+18. Write a Program to print the Solid Diamond Alphabet Pattern.
 
      A 
     B B
@@ -636,7 +627,7 @@ F F F F F F
      A
 
 
-20. Write a Program to Print the V Shape Alphabet Pattern.
+19. Write a Program to Print the V Shape Alphabet Pattern.
 
 E       E 
  D     D
