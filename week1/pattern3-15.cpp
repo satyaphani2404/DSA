@@ -15,8 +15,3 @@ int main(){
 
     }
 }
-// EEEEEEEEE
-//  DDDDDDD
-//   CCCCC
-//    BBB
-//     A
