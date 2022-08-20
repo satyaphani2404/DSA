@@ -1,5 +1,5 @@
 1. program to find duplicate in array?
-Input:{1 ,5,4,2,1,4,7}
+Input:{1,5,4,2,1,4,7}
 Output:{1,4}
 2. Find Pairs with given sum in a sorted array.
 Input:{1,2,3,4,5,6,7} sum=9
